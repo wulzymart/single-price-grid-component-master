@@ -1,0 +1,65 @@
+body{
+  font-family: 'Karla', sans-serif;
+}
+.row{
+  margin: 0;
+}
+h2, .price {
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+h3{
+  font-weight: 700;
+  font-size: 1.2rem;
+    line-height: 1.5;
+}
+p {
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1;
+}
+.rate{
+  display: inline-block;
+}
+.price {
+  color: #fff;
+}
+
+.btn-Yellow{
+  background-color: hsl(71, 73%, 54%);
+  color: #fff;
+  margin-top: 32px;
+  font-size: 1rem;
+}
+.top{
+  background-color: #fff;
+  color: hsl(218, 22%, 67%);
+  padding: 30px 50px;
+}
+.yellow-text{
+  color: hsl(71, 73%, 54%);
+}
+.cyan-text{
+  color: hsl(179, 62%, 43%);
+}
+.cyan-bg{
+  background-color: hsl(179, 62%, 43%);
+  color: #fff;
+  padding: 30px 50px;
+}
+.cyan-bg p {
+  color: hsl(204, 43%, 93%);
+}
+.gb-bg{
+  background-color: hsl(179, 50%, 65%);
+  color: #fff;
+  padding: 30px 50px;
+}
+
+.gb-bg p {
+  line-height: 1.5;
+  margin: 0;
+  font-size: 0.9rem;
+  color: hsl(204, 43%, 93%);
+}
